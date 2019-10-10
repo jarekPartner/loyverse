@@ -1457,6 +1457,10 @@ section.lazy-placeholder:after {
 .cid-rEtpBtFwhL P {
   text-align: left;
 }
+.cid-rEtpBtFwhL .card-title,
+.cid-rEtpBtFwhL .card-img {
+  color: #55b4d4;
+}
 .cid-rEtrzdjIjT {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1492,6 +1496,10 @@ section.lazy-placeholder:after {
   .cid-rEtrzdjIjT .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rEtrzdjIjT .card-title,
+.cid-rEtrzdjIjT .card-img {
+  color: #55b4d4;
 }
 .cid-rEttIQ3lTu {
   padding-top: 90px;
