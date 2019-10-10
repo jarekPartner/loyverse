@@ -1454,6 +1454,9 @@ section.lazy-placeholder:after {
     font-size: 40px !important;
   }
 }
+.cid-rEtpBtFwhL P {
+  text-align: left;
+}
 .cid-rEtrzdjIjT {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1488,27 +1491,6 @@ section.lazy-placeholder:after {
 @media (max-width: 300px) {
   .cid-rEtrzdjIjT .card-img span {
     font-size: 40px !important;
-  }
-}
-.cid-rEtsNeyxg5 {
-  background: #cccccc;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rEtsNeyxg5 .image-block {
-  margin: auto;
-}
-.cid-rEtsNeyxg5 figcaption {
-  position: relative;
-}
-.cid-rEtsNeyxg5 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rEtsNeyxg5 .image-block {
-    width: 100% !important;
   }
 }
 .cid-rEttIQ3lTu {
